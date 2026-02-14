@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Global POD Expert Kit",
+  "description": "A world-class tool for Print-on-Demand entrepreneurs to generate SEO-optimized Etsy listings and copyright-safe design prompts from ideas or images.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
